@@ -4,7 +4,7 @@
 </p>
 
 <h4>
-Esta es una maqueta para un curso on-line sobre análisis de datos para ciencias sociales usando el programa R
+Esta es una maqueta para un curso on-line sobre análisis de datos para Ciencias Sociales usando el programa R y R-Studio
 </h4>
 
 <h4>
