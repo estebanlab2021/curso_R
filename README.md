@@ -21,4 +21,4 @@ Descripción de la metodología
 <p>
 Es un curso asincrónico on-line donde se combinan los aspectos teóricos con enfoque en el desarrollo de habilidades prácticas. Las sesiones teóricas incluirán conceptos y demostraciones de las herramientas del programa R. También, se entregará material complementario con la finalidad de apoyar el proceso de aprendizaje más allá de las horas lectivas. Las sesiones prácticas enfatizaran en el trabajo autónomo del participante quien deberá aplicar a problemas concretos, casos aplicados, los procedimientos mostrados en las sesiones teóricas con el apoyo del programa R. Se dispondrá de un foro para responder dudas, preguntas y problemas.
 </p>
-<p>La primera parte de este curso se encuentra en en el siguiente link: https://estebanlab2021.github.io/curso_R/intro.html</p>
+<p>La primera parte de este curso se encuentra en en el siguiente link: https://estebanlab2021.github.io/curso_R/index.html</p>
